@@ -1,5 +1,3 @@
-<><>
-
 <?php
 require_once "config.php";
 Aditya::subtitle(translate('डॅशबोड'));
