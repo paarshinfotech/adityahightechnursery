@@ -1,0 +1,35 @@
+**/error_log
+db/
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore environment configuration
+.env
+
+# Ignore composer dependencies (if you want to exclude vendor directory)
+vendor/
+
+# Ignore cache directories
+cache/
+tmp/
+
+# Ignore uploads (if applicable)
+uploads/
+
+# Ignore node_modules (if you use Node.js tools)
+node_modules/
+
+# Ignore PHPUnit test result cache
+phpunit.xml
+.phpunit.result.cache
